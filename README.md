@@ -72,16 +72,12 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
    ██████  
   ██    ██ 
   ██       
-  ██       
+  ██   ███ 
   ██    ██ 
-   ██████   
-
-       ██   
-       ██   
-       ██   
-  ██   ██   
-   █████    
-
+   ██████  
+       ██  
+  ██   ██  
+   █████   
 
 
 
