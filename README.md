@@ -1,6 +1,6 @@
-### Hi there it's me CJ , ano ginagawa moo dine? profile koto ah HAAHHAHA.
+## Hi there it's me CJ , ano ginagawa moo dine? profile koto ah HAAHHAHA.
 
-![eyy](https://github.com/user-attachments/assets/94f84983-d01b-4bba-aa62-334d417d4b2d)
+### <center> ![eyy](https://github.com/user-attachments/assets/94f84983-d01b-4bba-aa62-334d417d4b2d) </center>
 
 💫 About Me:
 
