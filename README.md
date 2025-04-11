@@ -69,7 +69,20 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
 - [Publication Title](link-to-publication) - Journal/Conference, Year
 
 ## ASCII Art
-``` ____ _ _ _ _ / ___| | | \ | (_) ___ __ _ | | _ | | \| | |/ __/ _` | | |__| |_| | |\ | | (_| (_| | \____\___/|_| \_|_|\___\__,_| ```
+   ██████  
+  ██    ██ 
+  ██       
+  ██       
+  ██    ██ 
+   ██████   
+
+       ██   
+       ██   
+       ██   
+  ██   ██   
+   █████    
+
+
 
 
 
