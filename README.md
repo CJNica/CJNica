@@ -1,30 +1,9 @@
 ### <center>  Hi there it's me CJ , ano ginagawa moo dine? profile koto ah HAAHHAHA.</center>
 
 <p align="center">
-### ![eyy](https://github.com/user-attachments/assets/94f84983-d01b-4bba-aa62-334d417d4b2d) 
+![eyy](https://github.com/user-attachments/assets/aeebade4-f5ac-49de-bb44-069129c062ba)
+
 </p>
-
-💫 About Me:
-
-Hey, hey, hey! Welcome to my GitHub repository, where I am sharing my journey of learning web development, python, php, mysql and specifically, the Django framework. As a passionate learner and aspiring web developer, I am constantly exploring new technologies and techniques to improve my skills and build innovative web applications.
-
-Through this repository,
-
-📫 I aim to document my progress.
-✔️ Share my projects.
-⚡ Connect with the community to learn and grow together.
-Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
-🌐 Socials:
-
-Instagram LinkedIn TikTok YouTube
-💻 Tech Stack:
-
-C# CSS3 JavaScript HTML5 Java PHP TypeScript Python Firebase GithubPages PythonAnywhere .Net Chart.js DaisyUI Django DjangoREST Flask Express.js JWT NPM Next JS NodeJS Nodemon PNPM React Router React Hook Form React Query Radix UI Styled Components TailwindCSS Vite Zod Firebase MicrosoftSQLServer MySQL SQLite Postgres Prisma Canva Figma Gimp Matplotlib NumPy Pandas Git GitHub ESLint Postman
-📊 GitHub Stats:
-
-
-
-🏆 GitHub Trophies
 
 
 
