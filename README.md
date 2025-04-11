@@ -54,7 +54,7 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
 
 ## Connect with Me
 
-[Your Contact Information Here]
+[https://web.facebook.com/cj.48041]
 
 ## Certifications
 
@@ -68,16 +68,6 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
 
 - [Publication Title](link-to-publication) - Journal/Conference, Year
 
-## ASCII Art
-   ██████  
-  ██    ██ 
-  ██       
-  ██   ███ 
-  ██    ██ 
-   ██████  
-       ██  
-  ██   ██  
-   █████   
 
 
 
