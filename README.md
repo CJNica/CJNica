@@ -2,9 +2,10 @@
   <h2> Hi there, it's me CJ! Ano ginagawa mo dito? Profile ko 'to! HAAHHAHA. </h2>
 </center>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aeebade4-f5ac-49de-bb44-069129c062ba" alt="eyy">
-</p>
+<div style="border: 4px solid #ff0; border-radius: 10px; box-shadow: 0 0 20px #ff0;">
+  <img src="https://github.com/user-attachments/assets/46018214-95f4-451a-9bdd-beffbcfade0c" alt="Glowing GIF">
+</div>
+
 
 # About Me
 
