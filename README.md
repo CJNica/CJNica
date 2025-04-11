@@ -2,9 +2,10 @@
   <h2> Hi there, it's me CJ! Ano ginagawa mo dito? Profile ko 'to! HAAHHAHA. </h2>
 </center>
 
-<div style="border: 4px solid #ff0; border-radius: 10px; box-shadow: 0 0 20px #ff0;">
-  <img src="https://github.com/user-attachments/assets/e84d8cec-011e-479b-81b2-cd9c27ae8575" alt="Glowing GIF">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aeebade4-f5ac-49de-bb44-069129c062ba" alt="eyy">
+</p>
+
 
 
 # About Me
@@ -68,4 +69,12 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
 - [Publication Title](link-to-publication) - Journal/Conference, Year
 
 ## ASCII Art
+``` ____ _ _ _ _ / ___| | | \ | (_) ___ __ _ | | _ | | \| | |/ __/ _` | | |__| |_| | |\ | | (_| (_| | \____\___/|_| \_|_|\___\__,_| ```
+
+
+
+
+## MY FUCKIN TROPHIES
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CJNica&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
