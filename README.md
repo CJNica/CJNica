@@ -3,7 +3,7 @@
 </center>
 
 <div style="border: 4px solid #ff0; border-radius: 10px; box-shadow: 0 0 20px #ff0;">
-  <img src="https://github.com/user-attachments/assets/46018214-95f4-451a-9bdd-beffbcfade0c" alt="Glowing GIF">
+  <img src="https://github.com/user-attachments/assets/e84d8cec-011e-479b-81b2-cd9c27ae8575" alt="Glowing GIF">
 </div>
 
 
