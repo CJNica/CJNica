@@ -75,6 +75,6 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
 
 
 ## MY FUCKIN TROPHIES
-[[![GitHub Trophy]([https://github-profile-trophy.vercel.app/?username=CJNica&theme=radical](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix))]
+[[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark)]
 
 
