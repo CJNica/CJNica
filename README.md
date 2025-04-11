@@ -1,7 +1,7 @@
 ### <center>  Hi there it's me CJ , ano ginagawa moo dine? profile koto ah HAAHHAHA.</center>
 
 <p align="center">
-  <img width="460" height="300" src=![eyy](https://github.com/user-attachments/assets/94f84983-d01b-4bba-aa62-334d417d4b2d) >
+ ![eyy](https://github.com/user-attachments/assets/94f84983-d01b-4bba-aa62-334d417d4b2d) 
 </p>
 
 💫 About Me:
